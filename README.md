@@ -36,6 +36,8 @@ streamlit run app.py
 
 5.Open your web browser and access the application at [http://localhost:8501](http://localhost:8501).
 
+![sample](https://github.com/Mohshaikh23/Spell_Corrector/assets/93477768/c2cf5b55-5bd0-47cb-ac6c-8be4e3e459a2)
+
 ## Usage
 
 1. Enter the text you want to check for grammar and spelling mistakes in the provided text area.
