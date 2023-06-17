@@ -1,7 +1,6 @@
 from gingerit.gingerit import GingerIt
 import streamlit as st
 import pandas as pd
-import subprocess
 import time
 
 
